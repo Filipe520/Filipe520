@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Olá!+👋;+Me+Chamo+Filipe+Alves!;" />
 </h1>
-<h2>Desenvolvedor Full-Stack </h2>
+<h1>Bem-Vindo(a), Desenvolvedor Full-Stack </h1>
 
 
 <p> Cursando Analise e Desenvolvimento de Sistemas e Desenvolvimento Web Full-Stack.</p>
