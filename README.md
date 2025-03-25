@@ -13,15 +13,12 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-alves-3130672b7)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/filipealves520/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561985543989)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](filipealves520@gmail.com)
 
-<a href="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"><img src="filipealves520@gmail.com" target="_blank"></a>
-
-![Filipe520 GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipe520&show_icons=true&theme=vue-dark&count_private=true)
+![Filipe520 GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipe520&show_icons=true&theme=github_dark&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
-![Filipe520 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe520&hide=HTML&langs_count=8&layout=compact&theme=vue-dark&border_radius=16&size_weight=20&count_weight=20&exclude_repo=github-readme-stats)
+![Filipe520 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe520&hide=HTML&langs_count=8&layout=compact&theme=github_dark&border_radius=16&size_weight=20&count_weight=20&exclude_repo=github-readme-stats)
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
