@@ -1,17 +1,14 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Jair+Redigolo+Junior!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Filipe+Alves!;" />
 </h1>
-<h3>Desenvolvedor Web Front-End </h3>
+<h3>Desenvolvedor Full-Stack </h3>
 
-![snake gif](https://github.com/Filipe520/Filipe520/blob/output/github-contribution-grid-snake.gif)
 
-<p> Formado em Analise e Desenvolvimento de Sistemas, Arquitetura de Software e Desenvolvimento Web Full Stack.</p>
+<p> Cursando Analise e Desenvolvimento de Sistemas e Desenvolvimento Web Full-Stack.</p>
 
-<p>Meus projetos se encontram em meu site portfólio www.jairjr.dev</p>
+<p>Atualmente estou focando meus estudos em React</p>
 
-<p>Atualmente estou focando meus estudos em Nextjs e Nodejs</p>
-
-<p>Criatividade, facilidade em aprender e ensinar, trabalho em equipe e raciocínio lógico fazem parte do meu perfil.</p>
+<p>Criatividade, facilidade em aprender, trabalho em equipe e raciocínio lógico fazem parte do meu perfil.</p>
 
 
 [![Site](https://img.shields.io/website?label=jairjr.dev&style=for-the-badge&url=https://www.jairjr.dev/)](https://www.jairjr.dev)
@@ -39,3 +36,5 @@
 
 <a href="https://youtu.be/T9tc_p42_xA?si=LEm0TcofNUF_aTH2">Space-Time</a> <br> <br>
 <a href="https://youtu.be/n6KKB5nYZZQ?si=Bq9JqAB6SopfqhUk">My-Finaces</a> <br>
+
+![snake gif](https://github.com/Filipe520/Filipe520/blob/output/github-contribution-grid-snake.gif)
