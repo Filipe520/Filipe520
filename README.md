@@ -15,7 +15,7 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561985543989)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](filipealves520@gmail.com)
 
-![Filipe520 GitHub stats](https://github-readme-stats.vercel.app/api?username=juninho15830&show_icons=true&theme=dracula&count_private=true)
+![Filipe520 GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipe520&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
