@@ -16,7 +16,7 @@
 
 ![Filipe520 GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipe520&show_icons=true&theme=react&count_private=true)
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias utilizadas
 
 ![Filipe520 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe520&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=16&size_weight=20&count_weight=20&exclude_repo=github-readme-stats)
 
