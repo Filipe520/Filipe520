@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/filipe-alves-3130672b7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/filipealves520/)" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://wa.me/5561985543989" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
 
-![Filipe520 GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipe520&show_icons=true&theme=transparent&count_private=true)
+![Filipe520 GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipe520&show_icons=true&theme=vue_dark&count_private=true)
 
 ## Tecnologias utilizadas
 
