@@ -19,7 +19,7 @@
 
 ## Tecnologias que eu uso no meu dia
 
-![Filipe520 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juninho15830&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
+![Filipe520 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe520&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
