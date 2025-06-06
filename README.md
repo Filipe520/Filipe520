@@ -12,6 +12,7 @@
 </picture>
 
 
+
 <p> Cursando Analise e Desenvolvimento de Sistemas e Desenvolvimento Web Full-Stack.</p>
 
 <p>Atualmente estou focando meus estudos em React/NextJS</p>
