@@ -50,6 +50,6 @@
 
 ## 🚀 Projetos em Destaque
 
-- 🔗 [Portfólio com Next.js](#)
+- 🔗 [Clone do Curso em Vídeo]([clone-curso-em-video.vercel.app/](https://clone-curso-em-video-nine.vercel.app/))
 - 🔗 [API de Produtos com Express.js](#)
 
