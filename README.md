@@ -51,6 +51,3 @@
 - 🔗 [Portfólio com Next.js](#)
 - 🔗 [API de Produtos com Express.js](#)
 
----
-
-Se quiser, posso gerar esse README final pra você em um arquivo `.md` pronto. Quer que eu faça?
