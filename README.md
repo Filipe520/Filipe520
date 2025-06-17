@@ -35,12 +35,19 @@
 <p align="left"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> </p>
 
 ---
-
 ## 📊 GitHub Stats
 
-![Filipe520 GitHub stats](https://github-readme-stats.vercel.app/api?username=Filipe520&show_icons=true&theme=react&count_private=true&include_all_commits=true&v=2)
-
-
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://github-readme-stats.vercel.app/api?username=Filipe520&show_icons=true&theme=react&count_private=true&include_all_commits=true&v=2" />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://github-readme-stats.vercel.app/api?username=Filipe520&show_icons=true&theme=default&count_private=true&include_all_commits=true&v=2" />
+  <img 
+    alt="Filipe520 GitHub Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=Filipe520&show_icons=true&theme=default&count_private=true&include_all_commits=true&v=2" />
+</picture>
 
 ---
 
