@@ -15,10 +15,10 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
-          color_snake: "#0369A1"           # azul tailwind sky-700
+          color_snake: "#012b42"           # azul tailwind sky-700
           color_snake_dark: "#0369A1"
-          color_dots: "#e0f2fe,#bae6fd,#7dd3fc,#38bdf8,#0ea5e9"       # tons de azul claro
-          color_dots_dark: "#e0f2fe,#bae6fd,#7dd3fc,#38bdf8,#0ea5e9"
+          color_dots: "#003d66"       # tons de azul claro
+          color_dots_dark: "#051926"
           background: "transparent"
           
       - name: Deploy to GitHub Pages
