@@ -3,11 +3,9 @@
 ## 🐍 Snake comendo meus commits
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Filipe520/Filipe520/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Filipe520/Filipe520/output/github-contribution-grid-snake.svg" />
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?color_snake=#007BFF&color_dots=#cce4f6,#99ccff,#66b3ff,#3399ff,#007acc&background=transparent" />
-
-
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Filipe520/Filipe520/output/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Filipe520/Filipe520/output/dist/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Filipe520/Filipe520/output/dist/github-contribution-grid-snake.svg" />
 </picture>
 
 
