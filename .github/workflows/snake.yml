@@ -14,13 +14,8 @@ jobs:
           github_user_name: Filipe520
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
-          color_snake: "#012b42"           # azul tailwind sky-700
-          color_snake_dark: "#0369A1"
-          color_dots: "#003d66"       # tons de azul claro
-          color_dots_dark: "#051926"
-          background: "transparent"
-          
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4.1.0
         with:
