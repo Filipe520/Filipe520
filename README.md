@@ -8,7 +8,6 @@
   <img alt="snake animation" src="https://raw.githubusercontent.com/Filipe520/Filipe520/output/github-contribution-grid-snake.svg" />
 </picture>
 
-
 ---
 
 ## 👨‍💻 Sobre mim
