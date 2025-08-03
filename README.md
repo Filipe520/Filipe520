@@ -14,15 +14,16 @@
 
 🎓 Atualmente curso Análise e Desenvolvimento de Sistemas e me especializo em Desenvolvimento Web Full-Stack.  
 🚀 Estou focado em tecnologias modernas como **React**, **Next.js**, além de desenvolvimento com **Python**.  
-🐍 Tenho experiência prática com **automação de tarefas usando Selenium**, **criação de APIs com Flask** e **interfaces modernas com CustomTkinter (CTk)**.  
+🐍 Tenho experiência prática com **automação de tarefas usando Selenium** e construção de **interfaces desktop modernas com CustomTkinter (CTk)**.  
 ✨ Me considero criativo, com facilidade de aprendizado, raciocínio lógico e trabalho em equipe.
 
 ---
 
 ## 💼 Experiência com Projetos Reais
 
-- ✅ **Aplicação de automação para cliente**: Desenvolvi uma aplicação em **Python** que automatiza a coleta de dados no site de um cliente utilizando a biblioteca **Selenium**. Esses dados são organizados e exibidos em tempo real em uma interface gráfica feita com **CTk (CustomTkinter)**.  
-  O backend foi estruturado com **Flask**, permitindo integração limpa e responsiva com as funcionalidades da aplicação.
+- ✅ **Aplicação de automação para cliente**: Desenvolvi uma aplicação em **Python** com **Selenium** que automatiza a coleta de dados diretamente do site de um cliente.  
+  Esses dados são organizados e exibidos automaticamente em uma interface desktop responsiva feita com **CTk (CustomTkinter)**.  
+  Esse projeto otimizou tarefas repetitivas e trouxe mais agilidade para o processo manual do cliente.
 
 ---
 
@@ -60,8 +61,8 @@
 🧠 Back-end & Lógica  
 <p align="left"> 
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 </p>
 
@@ -97,10 +98,11 @@
 ## 🚀 Projetos em Destaque
 
 - 🧠 **Automação Web com Python** *(privado/cliente)*  
-  Projeto profissional desenvolvido para automatizar o acesso a dados cadastrais de usuários em um site e exibição em uma tabela visual dentro de um app Python com **CTk**.  
-  Tecnologias: `Python`, `Selenium`, `Flask`, `CustomTkinter`
+  Aplicativo profissional desenvolvido com **Python**, utilizando **Selenium** para automação de acesso ao site do cliente e extração de dados.  
+  A interface foi criada com **CustomTkinter**, permitindo visualização prática dos dados em tempo real.
 
 - 🔗 [Clone do Curso em Vídeo](https://clone-curso-em-video-nine.vercel.app/)  
-  Um clone fiel da interface do portal Curso em Vídeo, utilizando `Next.js`, `Tailwind CSS` e `React`.
+  Um clone fiel da interface do portal Curso em Vídeo.  
+  Tecnologias: `MongoDB`, `Express.js`, `React`, `Node.js`, `Next.js`, `Tailwind CSS`
 
 ---
